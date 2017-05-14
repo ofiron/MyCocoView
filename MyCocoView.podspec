@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyCocoView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Cocoapod testing with random background.'
 
 # This description is used to generate tags and improve search results.
