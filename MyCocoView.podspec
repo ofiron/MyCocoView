@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MyCocoView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MyCocoView.'
+  s.summary          = 'Cocoapod testing with random background.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Cocoapod testing with random background. This is a testing. I know how it sound.
                        DESC
 
-  s.homepage         = 'https://github.com/bdapps_ofir/MyCocoView'
+  s.homepage         = 'https://github.com/ofiron/MyCocoView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bdapps_ofir' => 'ofir@msapps.mobi' }
@@ -37,6 +37,7 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  # s.dependency 'Other one', '~> 2.3'
 end
