@@ -1,0 +1,16 @@
+PODS:
+  - MyCocoView (0.1.0)
+
+DEPENDENCIES:
+  - MyCocoView (from `../`)
+
+EXTERNAL SOURCES:
+  MyCocoView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyCocoView: 39c0ce7cd9a5ccff4eb170b45099da985be98e5a
+
+PODFILE CHECKSUM: 169dcf6426764c03df4aa1e05a2863c2965db80a
+
+COCOAPODS: 1.2.1

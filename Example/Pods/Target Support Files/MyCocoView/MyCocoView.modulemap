@@ -1,0 +1,6 @@
+framework module MyCocoView {
+  umbrella header "MyCocoView-umbrella.h"
+
+  export *
+  module * { export * }
+}

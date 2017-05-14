@@ -1,0 +1,6 @@
+framework module Pods_MyCocoView_Example {
+  umbrella header "Pods-MyCocoView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
